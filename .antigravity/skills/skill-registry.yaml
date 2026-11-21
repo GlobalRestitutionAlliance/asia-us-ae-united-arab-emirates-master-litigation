@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: united-arab-emiratesian-restitution-roadmap-and-qsf-trust-execution
-  name: United Arab Emiratesian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/united-arab-emiratesian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ae_001
+    name: United Arab Emirates Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_002
+    name: United Arab Emirates Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_003
+    name: United Arab Emirates Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_004
+    name: United Arab Emirates Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_005
+    name: United Arab Emirates Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_006
+    name: United Arab Emirates Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_007
+    name: United Arab Emirates Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_008
+    name: United Arab Emirates Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_009
+    name: United Arab Emirates Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_010
+    name: United Arab Emirates Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_011
+    name: United Arab Emirates Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_012
+    name: United Arab Emirates Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_013
+    name: United Arab Emirates Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_014
+    name: United Arab Emirates Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_015
+    name: United Arab Emirates Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_016
+    name: United Arab Emirates Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_017
+    name: United Arab Emirates Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_018
+    name: United Arab Emirates Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_019
+    name: United Arab Emirates Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_020
+    name: United Arab Emirates Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_021
+    name: United Arab Emirates Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_022
+    name: United Arab Emirates Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_023
+    name: United Arab Emirates Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_024
+    name: United Arab Emirates Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_025
+    name: United Arab Emirates Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_026
+    name: United Arab Emirates Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_027
+    name: United Arab Emirates Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_028
+    name: United Arab Emirates Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_029
+    name: United Arab Emirates Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_030
+    name: United Arab Emirates Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_031
+    name: United Arab Emirates Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_032
+    name: United Arab Emirates Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_033
+    name: United Arab Emirates Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_034
+    name: United Arab Emirates Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_035
+    name: United Arab Emirates Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_036
+    name: United Arab Emirates Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_037
+    name: United Arab Emirates Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_038
+    name: United Arab Emirates Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_039
+    name: United Arab Emirates Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_040
+    name: United Arab Emirates Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_041
+    name: United Arab Emirates Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_042
+    name: United Arab Emirates Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_043
+    name: United Arab Emirates Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_044
+    name: United Arab Emirates Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_045
+    name: United Arab Emirates Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_046
+    name: United Arab Emirates Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_047
+    name: United Arab Emirates Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_048
+    name: United Arab Emirates Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_049
+    name: United Arab Emirates Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_050
+    name: United Arab Emirates Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_051
+    name: United Arab Emirates Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_052
+    name: United Arab Emirates Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_053
+    name: United Arab Emirates Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_054
+    name: United Arab Emirates Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_055
+    name: United Arab Emirates Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_056
+    name: United Arab Emirates Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_057
+    name: United Arab Emirates Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_058
+    name: United Arab Emirates Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_059
+    name: United Arab Emirates Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_060
+    name: United Arab Emirates Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_061
+    name: United Arab Emirates Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_062
+    name: United Arab Emirates Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_063
+    name: United Arab Emirates Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_064
+    name: United Arab Emirates Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_065
+    name: United Arab Emirates Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_066
+    name: United Arab Emirates Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_067
+    name: United Arab Emirates Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_068
+    name: United Arab Emirates Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_069
+    name: United Arab Emirates Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_070
+    name: United Arab Emirates Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_071
+    name: United Arab Emirates Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_072
+    name: United Arab Emirates Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_073
+    name: United Arab Emirates Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_074
+    name: United Arab Emirates Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_075
+    name: United Arab Emirates Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_076
+    name: United Arab Emirates Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_077
+    name: United Arab Emirates Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_078
+    name: United Arab Emirates Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_079
+    name: United Arab Emirates Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_080
+    name: United Arab Emirates Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_081
+    name: United Arab Emirates Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_082
+    name: United Arab Emirates Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_083
+    name: United Arab Emirates Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_084
+    name: United Arab Emirates Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_085
+    name: United Arab Emirates Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_086
+    name: United Arab Emirates Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_087
+    name: United Arab Emirates Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_088
+    name: United Arab Emirates Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_089
+    name: United Arab Emirates Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_090
+    name: United Arab Emirates Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_091
+    name: United Arab Emirates Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_092
+    name: United Arab Emirates Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_093
+    name: United Arab Emirates Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_094
+    name: United Arab Emirates Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_095
+    name: United Arab Emirates Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_096
+    name: United Arab Emirates Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_097
+    name: United Arab Emirates Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_098
+    name: United Arab Emirates Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_099
+    name: United Arab Emirates Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_100
+    name: United Arab Emirates Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_101
+    name: United Arab Emirates Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_102
+    name: United Arab Emirates Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_103
+    name: United Arab Emirates Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_104
+    name: United Arab Emirates Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_105
+    name: United Arab Emirates Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_106
+    name: United Arab Emirates Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_107
+    name: United Arab Emirates Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_108
+    name: United Arab Emirates Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_109
+    name: United Arab Emirates Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_110
+    name: United Arab Emirates Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_111
+    name: United Arab Emirates Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_112
+    name: United Arab Emirates Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_113
+    name: United Arab Emirates Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_114
+    name: United Arab Emirates Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_115
+    name: United Arab Emirates Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_116
+    name: United Arab Emirates Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_117
+    name: United Arab Emirates Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_118
+    name: United Arab Emirates Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_119
+    name: United Arab Emirates Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_120
+    name: United Arab Emirates Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_121
+    name: United Arab Emirates Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_122
+    name: United Arab Emirates Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_123
+    name: United Arab Emirates Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_124
+    name: United Arab Emirates Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_125
+    name: United Arab Emirates Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_126
+    name: United Arab Emirates Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_127
+    name: United Arab Emirates Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_128
+    name: United Arab Emirates Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_129
+    name: United Arab Emirates Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_130
+    name: United Arab Emirates Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_131
+    name: United Arab Emirates Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_132
+    name: United Arab Emirates Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_133
+    name: United Arab Emirates Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_134
+    name: United Arab Emirates Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_135
+    name: United Arab Emirates Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_136
+    name: United Arab Emirates Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_137
+    name: United Arab Emirates Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_138
+    name: United Arab Emirates Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_139
+    name: United Arab Emirates Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_140
+    name: United Arab Emirates Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_141
+    name: United Arab Emirates Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_142
+    name: United Arab Emirates Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_143
+    name: United Arab Emirates Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_144
+    name: United Arab Emirates Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_145
+    name: United Arab Emirates Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_146
+    name: United Arab Emirates Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_147
+    name: United Arab Emirates Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_148
+    name: United Arab Emirates Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_149
+    name: United Arab Emirates Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_150
+    name: United Arab Emirates Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_151
+    name: United Arab Emirates Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_152
+    name: United Arab Emirates Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_153
+    name: United Arab Emirates Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_154
+    name: United Arab Emirates Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_155
+    name: United Arab Emirates Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_156
+    name: United Arab Emirates Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_157
+    name: United Arab Emirates Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_158
+    name: United Arab Emirates Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_159
+    name: United Arab Emirates Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_160
+    name: United Arab Emirates Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_161
+    name: United Arab Emirates Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_162
+    name: United Arab Emirates Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_163
+    name: United Arab Emirates Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_164
+    name: United Arab Emirates Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_165
+    name: United Arab Emirates Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_166
+    name: United Arab Emirates Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_167
+    name: United Arab Emirates Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_168
+    name: United Arab Emirates Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_169
+    name: United Arab Emirates Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_170
+    name: United Arab Emirates Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_171
+    name: United Arab Emirates Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_172
+    name: United Arab Emirates Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_173
+    name: United Arab Emirates Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_174
+    name: United Arab Emirates Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_175
+    name: United Arab Emirates Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_176
+    name: United Arab Emirates Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_177
+    name: United Arab Emirates Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_178
+    name: United Arab Emirates Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_179
+    name: United Arab Emirates Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_180
+    name: United Arab Emirates Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_181
+    name: United Arab Emirates Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_182
+    name: United Arab Emirates Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_183
+    name: United Arab Emirates Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_184
+    name: United Arab Emirates Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_185
+    name: United Arab Emirates Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_186
+    name: United Arab Emirates Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_187
+    name: United Arab Emirates Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_188
+    name: United Arab Emirates Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_189
+    name: United Arab Emirates Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_190
+    name: United Arab Emirates Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_191
+    name: United Arab Emirates Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_192
+    name: United Arab Emirates Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_193
+    name: United Arab Emirates Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_194
+    name: United Arab Emirates Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_195
+    name: United Arab Emirates Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_196
+    name: United Arab Emirates Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_197
+    name: United Arab Emirates Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_198
+    name: United Arab Emirates Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_199
+    name: United Arab Emirates Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_200
+    name: United Arab Emirates Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_201
+    name: United Arab Emirates Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_202
+    name: United Arab Emirates Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_203
+    name: United Arab Emirates Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_204
+    name: United Arab Emirates Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_205
+    name: United Arab Emirates Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_206
+    name: United Arab Emirates Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_207
+    name: United Arab Emirates Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_208
+    name: United Arab Emirates Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_209
+    name: United Arab Emirates Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_210
+    name: United Arab Emirates Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_211
+    name: United Arab Emirates Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_212
+    name: United Arab Emirates Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_213
+    name: United Arab Emirates Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_214
+    name: United Arab Emirates Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_215
+    name: United Arab Emirates Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_216
+    name: United Arab Emirates Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_217
+    name: United Arab Emirates Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_218
+    name: United Arab Emirates Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_219
+    name: United Arab Emirates Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_220
+    name: United Arab Emirates Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_221
+    name: United Arab Emirates Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_222
+    name: United Arab Emirates Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_223
+    name: United Arab Emirates Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_224
+    name: United Arab Emirates Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_225
+    name: United Arab Emirates Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_226
+    name: United Arab Emirates Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_227
+    name: United Arab Emirates Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_228
+    name: United Arab Emirates Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_229
+    name: United Arab Emirates Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_230
+    name: United Arab Emirates Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_231
+    name: United Arab Emirates Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_232
+    name: United Arab Emirates Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_233
+    name: United Arab Emirates Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_234
+    name: United Arab Emirates Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_235
+    name: United Arab Emirates Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_236
+    name: United Arab Emirates Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_237
+    name: United Arab Emirates Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_238
+    name: United Arab Emirates Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_239
+    name: United Arab Emirates Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_240
+    name: United Arab Emirates Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_241
+    name: United Arab Emirates Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_242
+    name: United Arab Emirates Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_243
+    name: United Arab Emirates Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_244
+    name: United Arab Emirates Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_245
+    name: United Arab Emirates Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_246
+    name: United Arab Emirates Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_247
+    name: United Arab Emirates Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_248
+    name: United Arab Emirates Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_249
+    name: United Arab Emirates Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_250
+    name: United Arab Emirates Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_251
+    name: United Arab Emirates Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ae_252
+    name: United Arab Emirates Skill 252
+    status: ACTIVE_SCAFFOLD

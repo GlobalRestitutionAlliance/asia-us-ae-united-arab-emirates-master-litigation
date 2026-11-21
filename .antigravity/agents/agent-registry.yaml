@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-united-arab-emirates-canal-and-intervention-historian
-  name: United Arab Emirates Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-united-arab-emirates-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ae_001
+    name: United Arab Emirates Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_002
+    name: United Arab Emirates Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_003
+    name: United Arab Emirates Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_004
+    name: United Arab Emirates Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_005
+    name: United Arab Emirates Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_006
+    name: United Arab Emirates Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_007
+    name: United Arab Emirates Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_008
+    name: United Arab Emirates Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_009
+    name: United Arab Emirates Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_010
+    name: United Arab Emirates Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_011
+    name: United Arab Emirates Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_012
+    name: United Arab Emirates Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_013
+    name: United Arab Emirates Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_014
+    name: United Arab Emirates Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_015
+    name: United Arab Emirates Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_016
+    name: United Arab Emirates Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_017
+    name: United Arab Emirates Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_018
+    name: United Arab Emirates Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_019
+    name: United Arab Emirates Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_020
+    name: United Arab Emirates Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_021
+    name: United Arab Emirates Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_022
+    name: United Arab Emirates Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_023
+    name: United Arab Emirates Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_024
+    name: United Arab Emirates Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_025
+    name: United Arab Emirates Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_026
+    name: United Arab Emirates Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_027
+    name: United Arab Emirates Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_028
+    name: United Arab Emirates Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_029
+    name: United Arab Emirates Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_030
+    name: United Arab Emirates Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_031
+    name: United Arab Emirates Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_032
+    name: United Arab Emirates Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_033
+    name: United Arab Emirates Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_034
+    name: United Arab Emirates Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_035
+    name: United Arab Emirates Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_036
+    name: United Arab Emirates Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_037
+    name: United Arab Emirates Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_038
+    name: United Arab Emirates Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_039
+    name: United Arab Emirates Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_040
+    name: United Arab Emirates Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_041
+    name: United Arab Emirates Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_042
+    name: United Arab Emirates Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_043
+    name: United Arab Emirates Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_044
+    name: United Arab Emirates Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_045
+    name: United Arab Emirates Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_046
+    name: United Arab Emirates Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_047
+    name: United Arab Emirates Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_048
+    name: United Arab Emirates Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_049
+    name: United Arab Emirates Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_050
+    name: United Arab Emirates Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_051
+    name: United Arab Emirates Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_052
+    name: United Arab Emirates Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_053
+    name: United Arab Emirates Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_054
+    name: United Arab Emirates Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_055
+    name: United Arab Emirates Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_056
+    name: United Arab Emirates Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_057
+    name: United Arab Emirates Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_058
+    name: United Arab Emirates Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_059
+    name: United Arab Emirates Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_060
+    name: United Arab Emirates Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_061
+    name: United Arab Emirates Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_062
+    name: United Arab Emirates Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_063
+    name: United Arab Emirates Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_064
+    name: United Arab Emirates Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_065
+    name: United Arab Emirates Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_066
+    name: United Arab Emirates Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_067
+    name: United Arab Emirates Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_068
+    name: United Arab Emirates Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_069
+    name: United Arab Emirates Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_070
+    name: United Arab Emirates Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_071
+    name: United Arab Emirates Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_072
+    name: United Arab Emirates Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_073
+    name: United Arab Emirates Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_074
+    name: United Arab Emirates Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_075
+    name: United Arab Emirates Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_076
+    name: United Arab Emirates Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_077
+    name: United Arab Emirates Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_078
+    name: United Arab Emirates Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_079
+    name: United Arab Emirates Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_080
+    name: United Arab Emirates Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_081
+    name: United Arab Emirates Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_082
+    name: United Arab Emirates Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_083
+    name: United Arab Emirates Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_084
+    name: United Arab Emirates Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_085
+    name: United Arab Emirates Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_086
+    name: United Arab Emirates Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_087
+    name: United Arab Emirates Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_088
+    name: United Arab Emirates Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_089
+    name: United Arab Emirates Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_090
+    name: United Arab Emirates Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_091
+    name: United Arab Emirates Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_092
+    name: United Arab Emirates Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_093
+    name: United Arab Emirates Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_094
+    name: United Arab Emirates Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_095
+    name: United Arab Emirates Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_096
+    name: United Arab Emirates Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_097
+    name: United Arab Emirates Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_098
+    name: United Arab Emirates Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_099
+    name: United Arab Emirates Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_100
+    name: United Arab Emirates Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_101
+    name: United Arab Emirates Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_102
+    name: United Arab Emirates Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_103
+    name: United Arab Emirates Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_104
+    name: United Arab Emirates Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_105
+    name: United Arab Emirates Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_106
+    name: United Arab Emirates Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_107
+    name: United Arab Emirates Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_108
+    name: United Arab Emirates Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_109
+    name: United Arab Emirates Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_110
+    name: United Arab Emirates Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_111
+    name: United Arab Emirates Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_112
+    name: United Arab Emirates Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_113
+    name: United Arab Emirates Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_114
+    name: United Arab Emirates Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_115
+    name: United Arab Emirates Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_116
+    name: United Arab Emirates Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_117
+    name: United Arab Emirates Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_118
+    name: United Arab Emirates Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_119
+    name: United Arab Emirates Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_120
+    name: United Arab Emirates Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_121
+    name: United Arab Emirates Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_122
+    name: United Arab Emirates Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_123
+    name: United Arab Emirates Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_124
+    name: United Arab Emirates Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_125
+    name: United Arab Emirates Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_126
+    name: United Arab Emirates Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_127
+    name: United Arab Emirates Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_128
+    name: United Arab Emirates Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_129
+    name: United Arab Emirates Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_130
+    name: United Arab Emirates Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_131
+    name: United Arab Emirates Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_132
+    name: United Arab Emirates Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_133
+    name: United Arab Emirates Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_134
+    name: United Arab Emirates Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_135
+    name: United Arab Emirates Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_136
+    name: United Arab Emirates Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_137
+    name: United Arab Emirates Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_138
+    name: United Arab Emirates Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_139
+    name: United Arab Emirates Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_140
+    name: United Arab Emirates Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_141
+    name: United Arab Emirates Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_142
+    name: United Arab Emirates Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_143
+    name: United Arab Emirates Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_144
+    name: United Arab Emirates Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_145
+    name: United Arab Emirates Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_146
+    name: United Arab Emirates Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_147
+    name: United Arab Emirates Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_148
+    name: United Arab Emirates Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_149
+    name: United Arab Emirates Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_150
+    name: United Arab Emirates Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_151
+    name: United Arab Emirates Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_152
+    name: United Arab Emirates Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_153
+    name: United Arab Emirates Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_154
+    name: United Arab Emirates Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_155
+    name: United Arab Emirates Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_156
+    name: United Arab Emirates Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_157
+    name: United Arab Emirates Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_158
+    name: United Arab Emirates Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_159
+    name: United Arab Emirates Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_160
+    name: United Arab Emirates Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_161
+    name: United Arab Emirates Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_162
+    name: United Arab Emirates Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_163
+    name: United Arab Emirates Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_164
+    name: United Arab Emirates Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_165
+    name: United Arab Emirates Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_166
+    name: United Arab Emirates Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_167
+    name: United Arab Emirates Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_168
+    name: United Arab Emirates Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_169
+    name: United Arab Emirates Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ae_170
+    name: United Arab Emirates Agent 170
+    status: ACTIVE_SCAFFOLD
