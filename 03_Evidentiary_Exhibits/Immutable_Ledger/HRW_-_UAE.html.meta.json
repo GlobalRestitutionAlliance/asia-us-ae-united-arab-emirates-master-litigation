@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/middle-east/north-africa/united-arab-emirates",
+  "final_url": "https://www.hrw.org/middle-east/north-africa/united-arab-emirates",
+  "title": "HRW - UAE",
+  "fetched_at": "2026-11-23T15:21:07.444362Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 199971,
+  "sha256": "24256478e72cae133b85e92838d6bab15ad0ed8b57267200d9e71c0a9876ba67",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
